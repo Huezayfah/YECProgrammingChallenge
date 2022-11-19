@@ -1,0 +1,15 @@
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Calculator.resources
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.manifest
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.application
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe.manifest
+C:\Users\ummat\Documents\GitHub\CSharp-Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.application
